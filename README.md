@@ -1,4 +1,4 @@
-# evil-tetronimo
+# evil-tetromino
 
 A school project for my games development class.
 
